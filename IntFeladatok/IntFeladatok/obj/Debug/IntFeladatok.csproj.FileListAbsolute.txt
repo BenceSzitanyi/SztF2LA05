@@ -1,0 +1,7 @@
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\bin\Debug\IntFeladatok.exe.config
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\bin\Debug\IntFeladatok.exe
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\bin\Debug\IntFeladatok.pdb
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\obj\Debug\IntFeladatok.csproj.AssemblyReference.cache
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\obj\Debug\IntFeladatok.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\obj\Debug\IntFeladatok.exe
+C:\Users\hallgato\source\repos\IntFeladatok\IntFeladatok\obj\Debug\IntFeladatok.pdb
